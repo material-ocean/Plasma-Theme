@@ -21,7 +21,7 @@ Material oceanized theme with nomad icons for KDE plasma
 
 > Desktop:
 
-![alt text](https://raw.githubusercontent.com/material-ocean/plasma/screenshot.png)
+![alt text](https://raw.githubusercontent.com/material-ocean/Plasma/master/screenshot.png)
 
 ## Licensing:
 
