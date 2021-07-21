@@ -1,0 +1,18 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Name=Material Ocean Nomad
+Comment=Material Oceanized KDE plasma Theme
+X-KDE-PluginInfo-Author=Blacksuna19
+X-KDE-PluginInfo-Email=i@Blacksuan19.me
+X-KDE-PluginInfo-Name=Material_Ocean_Nomad
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=github.com/Material-Ocean/Plasma-Theme
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
