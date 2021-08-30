@@ -1,8 +1,11 @@
 [ContrastEffect]
+enabled=true
 contrast=0.2
-enabled=false
-intensity=2.0
-saturation=1.7
+intensity=1.4
+saturation=10
+
+[AdaptiveTransparency]
+enabled=true
 
 [Desktop Entry]
 Name=Material Ocean Nomad
